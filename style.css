@@ -42,3 +42,22 @@ body{
     border: transparent;
     
 }
+@media (max-width: 600px) {
+    
+  .inf-carta-aberta{
+    position: absolute;
+    display: flex;
+    bottom: 9.7%;
+    left: 0,5%;
+    gap: 10px;
+}
+.inf{
+    background-color: transparent;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    border: transparent;
+    
+}  
+
+}
